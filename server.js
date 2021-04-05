@@ -1,38 +1,22 @@
+var express = require('express');
 const fs = require('fs');
-const lodash = require('lodash');
-const jsonServer = require('json-server');
+var port = process.env.PORT || 3001;
+var app = express();
 
-const port = process.env.PORT || 3000;
-let endpoints = [],
-  obj = {};
-let dbPath = __dirname + '/public/db/';
-let files = fs.readdirSync(dbPath);
+const dbPath = __dirname + '/public/db/';
+const pharmacies = JSON.parse(fs.readFileSync(`${dbPath}/pharmacies.json`));
 
-files.forEach((file) => {
-  let filePath = fs.readFileSync(dbPath + file);
-  let jsonObject = JSON.parse(filePath);
-
-  Object.keys(jsonObject).forEach(function (idx) {
-    endpoints.push(idx);
-  });
-  lodash.extend(obj, jsonObject);
+app.get('/', function(req, res) {
+  res.json("RX App Mock Server");
 });
 
-const objOrdered = {};
-Object.keys(obj)
-  .sort()
-  .forEach(function (key) {
-    objOrdered[key] = obj[key];
-  });
+app.get('/pharmacies', function(req, res) {
+  res.json(pharmacies.pharmacies);
+});
 
-const router = jsonServer.router(objOrdered);
+app.get('/pharmacies/ba5629ef-0dfb-40b9-aa09-664a8e2cdfb5', function(req, res) {
+  res.json(pharmacies.pharmacies[0]);
+});
 
-// Express
-const app = jsonServer.create();
-const middlewares = jsonServer.defaults();
-app.use(jsonServer.bodyParser);
-app.use(middlewares);
-app.use(router);
 app.listen(port);
-
 module.exports = app;
