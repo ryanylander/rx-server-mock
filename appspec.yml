@@ -3,6 +3,8 @@ os: linux
 files:
 - source: /server.js
   destination: /home/ec2-user/express-service
+- source: /public
+  destination: /home/ec2-user/express-service
 - source: /package.json
   destination: /home/ec2-user/express-service
 - source: /node_modules
