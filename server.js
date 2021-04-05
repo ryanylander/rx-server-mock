@@ -3,7 +3,7 @@ const fs = require('fs');
 var port = process.env.PORT || 3001;
 var app = express();
 
-const dbPath = __dirname + '/public/db/';
+const dbPath = '/home/ec2-user/express-service/public/db/';
 const pharmacies = JSON.parse(fs.readFileSync(`${dbPath}/pharmacies.json`));
 
 app.get('/', function(req, res) {
