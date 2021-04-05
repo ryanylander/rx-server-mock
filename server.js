@@ -3,10 +3,10 @@ const lodash = require('lodash');
 const jsonServer = require('json-server');
 
 const port = process.env.PORT || 3000;
-let endpoints = [],
+const endpoints = [],
   obj = {};
-let dbPath = '/home/ec2-user/express-service/public/db/';
-let files = fs.readdirSync(dbPath);
+const dbPath = __dirname + '/public/db/';
+const files = fs.readdirSync(dbPath);
 
 files.forEach((file) => {
   let filePath = fs.readFileSync(dbPath + file);
