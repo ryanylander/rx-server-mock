@@ -1,5 +1,5 @@
 var express = require('express');
-//const fs = require('fs');
+const fs = require('fs');
 var port = process.env.PORT || 3000;
 var app = express();
 
