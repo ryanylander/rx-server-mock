@@ -1,6 +1,6 @@
 var express = require('express');
-const fs = require('fs');
-var port = process.env.PORT || 3001;
+//const fs = require('fs');
+var port = process.env.PORT || 3000;
 var app = express();
 
 //const dbPath = '/home/ec2-user/express-service/public/db/';
