@@ -13,7 +13,8 @@
         "state": "NY",
         "zipCode": "11206",
         "createdAt": "2021-01-01",
-        "updatedAt": "2021-01-01"
+        "updatedAt": "2021-01-01",
+        "pharmacyServiceType": "01"
       },
       {
         "id": "8c81a69d-57f7-4fdf-8684-03ec049348e4",
@@ -28,7 +29,8 @@
         "state": "NJ",
         "zipCode": "08876",
         "createdAt": "2021-01-01",
-        "updatedAt": "2021-01-01"
+        "updatedAt": "2021-01-01",
+        "pharmacyServiceType": "01"
       }
     ]
   }
