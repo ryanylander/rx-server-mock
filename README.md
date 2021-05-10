@@ -2,7 +2,7 @@ RX Application Mock Server
 ==================================================
 
 Running version found [here](http://ec2-54-197-109-63.compute-1.amazonaws.com/)
-Mock pharmacy data available at `/pharmacies`.
+/nMock pharmacy data available at `/pharmacies`.
 
 ## Adding Endpoints/Payload
 
