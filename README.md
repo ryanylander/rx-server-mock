@@ -9,7 +9,7 @@ Create a new endpoint and create your desired payload in a new `.json` file in t
 
 ## Running locally
 
-- Clone repo
+- Clone Repo
 - `yarn install`
 - Run `node server.js`
 - Update `.db` folder with JSON data
