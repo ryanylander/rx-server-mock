@@ -1,7 +1,8 @@
 RX Application Mock Server
 ==================================================
 
-Running version found [here](http://ec2-54-197-109-63.compute-1.amazonaws.com/)
+Running version found [here](https://rx-server-mock.herokuapp.com/)
+Deploys Automatically
 
 ## Adding Endpoints/Payload
 
