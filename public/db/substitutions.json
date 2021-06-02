@@ -1,0 +1,69 @@
+{
+  "substitutions": [
+    {
+      "ndc10": "27628888383",
+      "substitutions": [
+        {
+          "name": "Flecainide Acetate",
+          "form": "tab",
+          "strength": "60mg",
+          "drugIdentifier": {
+            "package": {
+              "identifierType": "NDC10",
+              "identifier": "7701044773"
+            }
+          }
+        },
+        {
+          "name": "Perphenazine",
+          "form": "tab",
+          "strength": "60mg",
+          "drugIdentifier": {
+            "package": {
+              "identifierType": "NDC10",
+              "identifier": "9535595311"
+            }
+          }
+        },
+        {
+          "name": "glipizide",
+          "form": "extended release",
+          "strength": "60mg",
+          "drugIdentifier": {
+            "package": {
+              "identifierType": "NDC10",
+              "identifier": "3210941502"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "ndc10": "55312554903",
+      "substitutions": [
+        {
+          "name": "etodolac",
+          "form": "capsule",
+          "strength": "60mg",
+          "drugIdentifier": {
+            "package": {
+              "identifierType": "NDC10",
+              "identifier": "9763286339"
+            }
+          }
+        },
+        {
+          "name": "ondansetron",
+          "form": "tab",
+          "strength": "60mg",
+          "drugIdentifier": {
+            "package": {
+              "identifierType": "NDC10",
+              "identifier": "4530828158"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

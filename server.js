@@ -2,7 +2,7 @@ const fs = require('fs');
 const lodash = require('lodash');
 const jsonServer = require('json-server');
 
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 3005;
 const endpoints = [],
   obj = {};
 const dbPath = __dirname + '/public/db/';
