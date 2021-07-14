@@ -1,37 +1,218 @@
 {
-    "pharmacies": [
-      {
-        "id": "ba5629ef-0dfb-40b9-aa09-664a8e2cdfb5",
-        "name": "NY Brooklyn",
-        "npi": 10000000,
-        "ncpdp": 1000001,
-        "pharmacyEmail": "hello@medly.com",
-        "stateLicenseNumber": 1000002,
+  "pharmacies": [
+    {
+      "id": "e36bad3a-21ef-4f3a-b7ee-4b20f13fabc1",
+      "npi": "10000000",
+      "pharmacyServiceType": 8,
+      "stateLicenseNumber": "1000002",
+      "email": "noreply@medly.com",
+      "locationHeader": "Brooklyn",
+      "locationSubHeader": "City Center",
+      "address": {
         "addressLine1": "104 Graham Ave",
-        "addressLine2": null,
+        "addressLine2": "Suite 100",
         "city": "Brooklyn",
         "state": "NY",
-        "zipCode": "11206",
-        "createdAt": "2021-01-01",
-        "updatedAt": "2021-01-01",
-        "pharmacyServiceType": "01"
+        "zip": "11206"
       },
-      {
-        "id": "8c81a69d-57f7-4fdf-8684-03ec049348e4",
-        "name": "NJ Somerville",
-        "npi": 20000000,
-        "ncpdp": 2000001,
-        "pharmacyEmail": "hello@medly.com",
-        "stateLicenseNumber": 1000002,
+      "coordinates": {
+        "latitude": 40.7048106,
+        "longitude": -73.9447149
+      },
+      "phone": "+17187827539",
+      "fax": "+17187827951",
+      "hours": {
+        "Sunday": [],
+        "Monday": [
+          {
+            "open": "0800",
+            "close": "2000"
+          }
+        ],
+        "Tuesday": [
+          {
+            "open": "0800",
+            "close": "2000"
+          }
+        ],
+        "Wednesday": [
+          {
+            "open": "0800",
+            "close": "2000"
+          }
+        ],
+        "Thursday": [
+          {
+            "open": "0800",
+            "close": "2000"
+          }
+        ],
+        "Friday": [
+          {
+            "open": "0800",
+            "close": "2000"
+          }
+        ],
+        "Saturday": [
+          {
+            "open": "0900",
+            "close": "1800"
+          }
+        ]
+      },
+      "nabp": "3352779",
+      "ncpdp": "3352779",
+      "publiclyAvailable": true,
+      "servicedZipCodes": [
+        "11201",
+        "11202",
+        "11203",
+        "11204",
+        "11205",
+        "11206",
+        "11207",
+        "11208",
+        "11209",
+        "11210",
+        "11211",
+        "11212",
+        "11213",
+        "11214",
+        "11215",
+        "11216",
+        "11217",
+        "11218",
+        "11219",
+        "11220",
+        "11221",
+        "11222",
+        "11223",
+        "11224",
+        "11225",
+        "11226",
+        "11228",
+        "11229",
+        "11230",
+        "11231",
+        "11232",
+        "11233",
+        "11234",
+        "11235",
+        "11236",
+        "11237",
+        "11238",
+        "11239",
+        "11241",
+        "11242",
+        "11243",
+        "11245",
+        "11247",
+        "11249",
+        "11251",
+        "11252",
+        "11256"
+      ],
+      "imageURL": "https://our-images.s3.us-east-1.amazonaws.com/PublicImages/Brooklyn/storefront.png",
+      "openDate": "2017-06-19"
+    },
+    {
+      "id": "8c81a69d-57f7-4fdf-8684-03ec049348e4",
+      "npi": "1417058439",
+      "pharmacyServiceType": 9,
+      "stateLicenseNumber": "1000001",
+      "email": "noreply@medly.com",
+      "locationHeader": "New Jersey",
+      "locationSubHeader": "City Center",
+      "address": {
         "addressLine1": "40 W Main St",
         "addressLine2": null,
         "city": "Somerville",
         "state": "NJ",
-        "zipCode": "08876",
-        "createdAt": "2021-01-01",
-        "updatedAt": "2021-01-01",
-        "pharmacyServiceType": "01"
-      }
-    ]
-  }
-  
+        "zip": "08876"
+      },
+      "coordinates": {
+        "latitude": 40.56891,
+        "longitude": -74.61287
+      },
+      "phone": "+19087250585",
+      "fax": "+1908-725-0587",
+      "hours": {
+        "Sunday": [],
+        "Monday": [
+          {
+            "open": "1000",
+            "close": "1900"
+          }
+        ],
+        "Tuesday": [
+          {
+            "open": "1000",
+            "close": "1900"
+          }
+        ],
+        "Wednesday": [
+          {
+            "open": "1000",
+            "close": "1900"
+          }
+        ],
+        "Thursday": [
+          {
+            "open": "1000",
+            "close": "1900"
+          }
+        ],
+        "Friday": [
+          {
+            "open": "1000",
+            "close": "1900"
+          }
+        ],
+        "Saturday": [
+          {
+            "open": "1000",
+            "close": "1900"
+          }
+        ]
+      },
+      "nabp": "3135868",
+      "ncpdp": "3135868",
+      "publiclyAvailable": true,
+      "servicedZipCodes": [
+        "07059",
+        "07069",
+        "07939",
+        "08805",
+        "08821",
+        "08873",
+        "08502",
+        "08823",
+        "08896",
+        "07920",
+        "07931",
+        "07978",
+        "07977",
+        "08504",
+        "08558",
+        "08853",
+        "08880",
+        "08876",
+        "07934",
+        "07921",
+        "08844",
+        "07924",
+        "08875",
+        "08890",
+        "08835",
+        "08553",
+        "08869",
+        "08807",
+        "08528",
+        "07938",
+        "08836"
+      ],
+      "imageURL": "https://our-images.s3.us-east-1.amazonaws.com/PublicImages/NewJersey/storefront.png",
+      "openDate": "2017-06-19"
+    }
+  ]
+}
