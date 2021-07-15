@@ -1,0 +1,3156 @@
+{
+    "allergies": [
+        {
+            "identifier": 98,
+            "name": "4-aminoquinolines"
+        },
+        {
+            "identifier": 4,
+            "name": "5-Alpha reductase inhibitors"
+        },
+        {
+            "identifier": 100,
+            "name": "8-aminoquinolines"
+        },
+        {
+            "identifier": 345,
+            "name": "Acetaminophen"
+        },
+        {
+            "identifier": 301,
+            "name": "Acetylcholine"
+        },
+        {
+            "identifier": 302,
+            "name": "Acetylcysteine"
+        },
+        {
+            "identifier": 703,
+            "name": "Aclidinium"
+        },
+        {
+            "identifier": 495,
+            "name": "Aconitum Derivatives"
+        },
+        {
+            "identifier": 89,
+            "name": "Acyclovir derivatives"
+        },
+        {
+            "identifier": 428,
+            "name": "Adenosine"
+        },
+        {
+            "identifier": 759,
+            "name": "Adenosine triphosphate-citrate lyase (ACL) inhibitors"
+        },
+        {
+            "identifier": 816,
+            "name": "Adenovirus SARS-CoV-2 (Covid-19)"
+        },
+        {
+            "identifier": 556,
+            "name": "Adhesive"
+        },
+        {
+            "identifier": 429,
+            "name": "Albumin Human"
+        },
+        {
+            "identifier": 765,
+            "name": "Albuterol"
+        },
+        {
+            "identifier": 107,
+            "name": "Alcohol"
+        },
+        {
+            "identifier": 650,
+            "name": "ALK inhibitors"
+        },
+        {
+            "identifier": 833,
+            "name": "Alkylamine Antihistamines"
+        },
+        {
+            "identifier": 303,
+            "name": "Allopurinol"
+        },
+        {
+            "identifier": 260,
+            "name": "Almotriptan"
+        },
+        {
+            "identifier": 545,
+            "name": "Aloe"
+        },
+        {
+            "identifier": 108,
+            "name": "Alpha interferons"
+        },
+        {
+            "identifier": 132,
+            "name": "Alpha-glucosidase Inhibitors"
+        },
+        {
+            "identifier": 673,
+            "name": "Alpha-pinene"
+        },
+        {
+            "identifier": 193,
+            "name": "Aluminum"
+        },
+        {
+            "identifier": 430,
+            "name": "Amantadine"
+        },
+        {
+            "identifier": 123,
+            "name": "Amantidine agents"
+        },
+        {
+            "identifier": 623,
+            "name": "Amaranthaceae"
+        },
+        {
+            "identifier": 431,
+            "name": "Ambenonium"
+        },
+        {
+            "identifier": 6,
+            "name": "Amide local anesthetics"
+        },
+        {
+            "identifier": 432,
+            "name": "Amiloride"
+        },
+        {
+            "identifier": 8,
+            "name": "Aminoglycosides"
+        },
+        {
+            "identifier": 171,
+            "name": "Aminoketone phenylethylamine derivatives"
+        },
+        {
+            "identifier": 433,
+            "name": "Aminophylline"
+        },
+        {
+            "identifier": 668,
+            "name": "Aminopyridines"
+        },
+        {
+            "identifier": 434,
+            "name": "Aminosalicylic acid"
+        },
+        {
+            "identifier": 435,
+            "name": "Amiodarone"
+        },
+        {
+            "identifier": 716,
+            "name": "Amlodipine"
+        },
+        {
+            "identifier": 796,
+            "name": "Ammonia"
+        },
+        {
+            "identifier": 797,
+            "name": "Ammonium"
+        },
+        {
+            "identifier": 459,
+            "name": "Amphetamines"
+        },
+        {
+            "identifier": 218,
+            "name": "Amphotericin"
+        },
+        {
+            "identifier": 121,
+            "name": "Amprenavir"
+        },
+        {
+            "identifier": 110,
+            "name": "Androgens"
+        },
+        {
+            "identifier": 9,
+            "name": "Angiotensin II receptor antagonists"
+        },
+        {
+            "identifier": 10,
+            "name": "Angiotensin-converting enzyme inhibitors"
+        },
+        {
+            "identifier": 11,
+            "name": "Anthracyclines"
+        },
+        {
+            "identifier": 436,
+            "name": "Anthralin"
+        },
+        {
+            "identifier": 600,
+            "name": "Anticonvulsants"
+        },
+        {
+            "identifier": 172,
+            "name": "Antidiuretic hormones"
+        },
+        {
+            "identifier": 504,
+            "name": "Antimony Compounds"
+        },
+        {
+            "identifier": 785,
+            "name": "Antisense Oligonucleotides for Duchenne"
+        },
+        {
+            "identifier": 804,
+            "name": "Antiviral Human Immunoglobulin G (IgG) Monoclonal Ant"
+        },
+        {
+            "identifier": 812,
+            "name": "Apiaceae"
+        },
+        {
+            "identifier": 665,
+            "name": "Apple"
+        },
+        {
+            "identifier": 437,
+            "name": "Apraclonidine"
+        },
+        {
+            "identifier": 576,
+            "name": "Aprepitant"
+        },
+        {
+            "identifier": 438,
+            "name": "Aprotinin"
+        },
+        {
+            "identifier": 484,
+            "name": "Arbutin"
+        },
+        {
+            "identifier": 807,
+            "name": "Arfomoterol"
+        },
+        {
+            "identifier": 360,
+            "name": "Arginine"
+        },
+        {
+            "identifier": 847,
+            "name": "Aripiprazole"
+        },
+        {
+            "identifier": 439,
+            "name": "Ascorbic acid (Vitamin C)"
+        },
+        {
+            "identifier": 112,
+            "name": "Asparaginase and related compounds"
+        },
+        {
+            "identifier": 505,
+            "name": "Asteraceae (Compositae)"
+        },
+        {
+            "identifier": 679,
+            "name": "Atropine"
+        },
+        {
+            "identifier": 529,
+            "name": "Autologous Cultured Chondrocytes"
+        },
+        {
+            "identifier": 617,
+            "name": "Avatrombopag"
+        },
+        {
+            "identifier": 621,
+            "name": "Avermectins"
+        },
+        {
+            "identifier": 506,
+            "name": "Avocado Oil"
+        },
+        {
+            "identifier": 304,
+            "name": "Azathioprine"
+        },
+        {
+            "identifier": 92,
+            "name": "Azole antifungals"
+        },
+        {
+            "identifier": 243,
+            "name": "Bacitracin"
+        },
+        {
+            "identifier": 363,
+            "name": "Baclofen"
+        },
+        {
+            "identifier": 794,
+            "name": "Baloxavir"
+        },
+        {
+            "identifier": 634,
+            "name": "Balsam of Peru"
+        },
+        {
+            "identifier": 792,
+            "name": "Bamlanivimab"
+        },
+        {
+            "identifier": 491,
+            "name": "Banana"
+        },
+        {
+            "identifier": 13,
+            "name": "Barbiturates"
+        },
+        {
+            "identifier": 579,
+            "name": "barium"
+        },
+        {
+            "identifier": 574,
+            "name": "Beans"
+        },
+        {
+            "identifier": 114,
+            "name": "Bee allergens"
+        },
+        {
+            "identifier": 113,
+            "name": "Bee Allergy"
+        },
+        {
+            "identifier": 680,
+            "name": "Belladonna"
+        },
+        {
+            "identifier": 83,
+            "name": "Belladonna alkaloids"
+        },
+        {
+            "identifier": 450,
+            "name": "Benzalkonium Chloride"
+        },
+        {
+            "identifier": 575,
+            "name": "Benzhydrocodone"
+        },
+        {
+            "identifier": 162,
+            "name": "Benzimidazole anthelmintics"
+        },
+        {
+            "identifier": 221,
+            "name": "Benzisoxazole Derivatives"
+        },
+        {
+            "identifier": 70,
+            "name": "Benzodiazepine derivatives"
+        },
+        {
+            "identifier": 248,
+            "name": "Benzoic Acid"
+        },
+        {
+            "identifier": 835,
+            "name": "Benzothiazepine Calcium- channel blockers"
+        },
+        {
+            "identifier": 247,
+            "name": "Benzoyl Peroxide"
+        },
+        {
+            "identifier": 305,
+            "name": "Benztropine"
+        },
+        {
+            "identifier": 271,
+            "name": "Benzyl alcohol"
+        },
+        {
+            "identifier": 140,
+            "name": "Beta Blockers (all)"
+        },
+        {
+            "identifier": 800,
+            "name": "Beta-3 adrenergic agonists"
+        },
+        {
+            "identifier": 173,
+            "name": "Beta-glucocerebrosidase derivatives"
+        },
+        {
+            "identifier": 133,
+            "name": "Beta-lactamase inhibitors"
+        },
+        {
+            "identifier": 715,
+            "name": "Betaine"
+        },
+        {
+            "identifier": 306,
+            "name": "Bethanechol"
+        },
+        {
+            "identifier": 440,
+            "name": "Biguanides"
+        },
+        {
+            "identifier": 59,
+            "name": "Bile acid sequestrants"
+        },
+        {
+            "identifier": 174,
+            "name": "Bioflavonoids"
+        },
+        {
+            "identifier": 168,
+            "name": "Bipyridine inotropic agents"
+        },
+        {
+            "identifier": 441,
+            "name": "Bisacodyl"
+        },
+        {
+            "identifier": 64,
+            "name": "Bismuth"
+        },
+        {
+            "identifier": 93,
+            "name": "Bisphosphonates"
+        },
+        {
+            "identifier": 307,
+            "name": "Bleomycin"
+        },
+        {
+            "identifier": 546,
+            "name": "Blue Dyes"
+        },
+        {
+            "identifier": 209,
+            "name": "Boron/Boronic Acid Derivatives"
+        },
+        {
+            "identifier": 159,
+            "name": "Botulinum toxins"
+        },
+        {
+            "identifier": 39,
+            "name": "Bovine Derivatives (Cow)"
+        },
+        {
+            "identifier": 630,
+            "name": "BRAF inhibitors"
+        },
+        {
+            "identifier": 713,
+            "name": "Bremelanotide"
+        },
+        {
+            "identifier": 517,
+            "name": "Broccoli Derivatives"
+        },
+        {
+            "identifier": 228,
+            "name": "Bromides"
+        },
+        {
+            "identifier": 516,
+            "name": "Brussels Sprout"
+        },
+        {
+            "identifier": 563,
+            "name": "Bruton tyrosine kinase (BTK) inhibitors"
+        },
+        {
+            "identifier": 308,
+            "name": "Buspirone"
+        },
+        {
+            "identifier": 361,
+            "name": "Busulfan"
+        },
+        {
+            "identifier": 103,
+            "name": "Butyrophenones"
+        },
+        {
+            "identifier": 518,
+            "name": "Cabbage"
+        },
+        {
+            "identifier": 643,
+            "name": "Calcitonin gene-related peptide antagonist monoclonal antib"
+        },
+        {
+            "identifier": 594,
+            "name": "Calcium"
+        },
+        {
+            "identifier": 16,
+            "name": "Calcium-channel blockers"
+        },
+        {
+            "identifier": 547,
+            "name": "Camphor and related compounds"
+        },
+        {
+            "identifier": 189,
+            "name": "Camptothecin analogs"
+        },
+        {
+            "identifier": 640,
+            "name": "Canine Derivatives"
+        },
+        {
+            "identifier": 220,
+            "name": "Cannabinoids, synthetic"
+        },
+        {
+            "identifier": 624,
+            "name": "Cannabis"
+        },
+        {
+            "identifier": 508,
+            "name": "Cantharidin Derivatives"
+        },
+        {
+            "identifier": 362,
+            "name": "Capreomycin"
+        },
+        {
+            "identifier": 117,
+            "name": "Capsaicin compounds"
+        },
+        {
+            "identifier": 15,
+            "name": "Carbacephems"
+        },
+        {
+            "identifier": 442,
+            "name": "Carbachol"
+        },
+        {
+            "identifier": 116,
+            "name": "Carbamates"
+        },
+        {
+            "identifier": 163,
+            "name": "Carbamazepine and derivatives"
+        },
+        {
+            "identifier": 3,
+            "name": "Carbapenems"
+        },
+        {
+            "identifier": 84,
+            "name": "Carbidopa"
+        },
+        {
+            "identifier": 73,
+            "name": "Carbonic anhydrase inhibitors"
+        },
+        {
+            "identifier": 56,
+            "name": "Cardiac glycosides"
+        },
+        {
+            "identifier": 554,
+            "name": "Carmine"
+        },
+        {
+            "identifier": 175,
+            "name": "Castor Oil"
+        },
+        {
+            "identifier": 683,
+            "name": "CD123-directed cytotoxin"
+        },
+        {
+            "identifier": 560,
+            "name": "CDK 4/6 inhibitors"
+        },
+        {
+            "identifier": 739,
+            "name": "Cefiderocol"
+        },
+        {
+            "identifier": 740,
+            "name": "Ceftaroline"
+        },
+        {
+            "identifier": 277,
+            "name": "Celecoxib"
+        },
+        {
+            "identifier": 595,
+            "name": "Cellulose"
+        },
+        {
+            "identifier": 499,
+            "name": "Centella Asiatica (Gotu Kola)"
+        },
+        {
+            "identifier": 2,
+            "name": "Cephalosporins"
+        },
+        {
+            "identifier": 818,
+            "name": "Ceteareths"
+        },
+        {
+            "identifier": 149,
+            "name": "Cetirizine"
+        },
+        {
+            "identifier": 510,
+            "name": "Cherry"
+        },
+        {
+            "identifier": 550,
+            "name": "Chia"
+        },
+        {
+            "identifier": 726,
+            "name": "Chickpea"
+        },
+        {
+            "identifier": 275,
+            "name": "Chitosan"
+        },
+        {
+            "identifier": 118,
+            "name": "Chloral hydrate"
+        },
+        {
+            "identifier": 452,
+            "name": "Chlorambucil"
+        },
+        {
+            "identifier": 364,
+            "name": "Chloramphenicol"
+        },
+        {
+            "identifier": 309,
+            "name": "Chlorhexidine"
+        },
+        {
+            "identifier": 577,
+            "name": "Chlorpheniramine"
+        },
+        {
+            "identifier": 365,
+            "name": "Chlorzoxazone"
+        },
+        {
+            "identifier": 583,
+            "name": "Cholinergic agonists"
+        },
+        {
+            "identifier": 18,
+            "name": "Cholinesterase inhibitors"
+        },
+        {
+            "identifier": 497,
+            "name": "Chondroitin"
+        },
+        {
+            "identifier": 522,
+            "name": "Chromium derivatives"
+        },
+        {
+            "identifier": 366,
+            "name": "Ciclopirox"
+        },
+        {
+            "identifier": 278,
+            "name": "Cidofovir"
+        },
+        {
+            "identifier": 596,
+            "name": "Cimetidine"
+        },
+        {
+            "identifier": 99,
+            "name": "Cinchona alkaloids"
+        },
+        {
+            "identifier": 632,
+            "name": "Cinnamates"
+        },
+        {
+            "identifier": 633,
+            "name": "Cinnamon and related compounds"
+        },
+        {
+            "identifier": 191,
+            "name": "Citalopram and derivatives"
+        },
+        {
+            "identifier": 671,
+            "name": "Citronella"
+        },
+        {
+            "identifier": 526,
+            "name": "Citrus"
+        },
+        {
+            "identifier": 94,
+            "name": "Clavulanic acid derivatives"
+        },
+        {
+            "identifier": 310,
+            "name": "Clidinium"
+        },
+        {
+            "identifier": 201,
+            "name": "Clonidine Derivatives"
+        },
+        {
+            "identifier": 298,
+            "name": "Coagulation Factor IX"
+        },
+        {
+            "identifier": 453,
+            "name": "Coal tar"
+        },
+        {
+            "identifier": 478,
+            "name": "Cobalt"
+        },
+        {
+            "identifier": 767,
+            "name": "Cobimetinib"
+        },
+        {
+            "identifier": 548,
+            "name": "Cocoa Derivatives"
+        },
+        {
+            "identifier": 519,
+            "name": "Coconut Derivatives"
+        },
+        {
+            "identifier": 190,
+            "name": "Cod liver oil and derivatives"
+        },
+        {
+            "identifier": 752,
+            "name": "Coffee"
+        },
+        {
+            "identifier": 367,
+            "name": "Colchicine"
+        },
+        {
+            "identifier": 444,
+            "name": "Collagenase"
+        },
+        {
+            "identifier": 57,
+            "name": "Colony Stimulating Factors"
+        },
+        {
+            "identifier": 188,
+            "name": "COMT inhibitors"
+        },
+        {
+            "identifier": 597,
+            "name": "Copper"
+        },
+        {
+            "identifier": 66,
+            "name": "Corn derivatives"
+        },
+        {
+            "identifier": 19,
+            "name": "Corticosteroids"
+        },
+        {
+            "identifier": 368,
+            "name": "Cosyntropin"
+        },
+        {
+            "identifier": 252,
+            "name": "Coumarins"
+        },
+        {
+            "identifier": 549,
+            "name": "Cranberry"
+        },
+        {
+            "identifier": 230,
+            "name": "Cresol"
+        },
+        {
+            "identifier": 311,
+            "name": "Cromolyn"
+        },
+        {
+            "identifier": 369,
+            "name": "Crotamiton"
+        },
+        {
+            "identifier": 477,
+            "name": "Cyanocobalmin"
+        },
+        {
+            "identifier": 78,
+            "name": "Cyclobenzaprine"
+        },
+        {
+            "identifier": 483,
+            "name": "Cyclodextrins"
+        },
+        {
+            "identifier": 370,
+            "name": "Cycloserine"
+        },
+        {
+            "identifier": 371,
+            "name": "Cyclosporine"
+        },
+        {
+            "identifier": 82,
+            "name": "Cysteamine"
+        },
+        {
+            "identifier": 774,
+            "name": "Cytidine deaminase (CDA) inhibitors"
+        },
+        {
+            "identifier": 204,
+            "name": "Dacarbazine / Temozolomide"
+        },
+        {
+            "identifier": 746,
+            "name": "Daclizumab"
+        },
+        {
+            "identifier": 372,
+            "name": "Dactinomycin"
+        },
+        {
+            "identifier": 628,
+            "name": "Dairy"
+        },
+        {
+            "identifier": 312,
+            "name": "Dantrolene"
+        },
+        {
+            "identifier": 709,
+            "name": "Dapagliflozin"
+        },
+        {
+            "identifier": 279,
+            "name": "Darunavir"
+        },
+        {
+            "identifier": 503,
+            "name": "Dasabuvir"
+        },
+        {
+            "identifier": 313,
+            "name": "Deferoxamine"
+        },
+        {
+            "identifier": 708,
+            "name": "Dengue vaccine"
+        },
+        {
+            "identifier": 207,
+            "name": "Denileukin Diftitox"
+        },
+        {
+            "identifier": 543,
+            "name": "Desvenlafaxine"
+        },
+        {
+            "identifier": 61,
+            "name": "dextran"
+        },
+        {
+            "identifier": 297,
+            "name": "Dextrose"
+        },
+        {
+            "identifier": 142,
+            "name": "Diazoxide"
+        },
+        {
+            "identifier": 753,
+            "name": "Dibenzoxazepines"
+        },
+        {
+            "identifier": 119,
+            "name": "Dichloralphenazone"
+        },
+        {
+            "identifier": 314,
+            "name": "Dicyclomine"
+        },
+        {
+            "identifier": 599,
+            "name": "Dideoxynucleosides"
+        },
+        {
+            "identifier": 659,
+            "name": "Diethyl Sebacate"
+        },
+        {
+            "identifier": 138,
+            "name": "Dihydropyridine Ca channel blockers"
+        },
+        {
+            "identifier": 254,
+            "name": "Dimethicone"
+        },
+        {
+            "identifier": 736,
+            "name": "Dimethyl fumarate"
+        },
+        {
+            "identifier": 282,
+            "name": "Dipeptidyl Peptidase-4 Inhibitors"
+        },
+        {
+            "identifier": 315,
+            "name": "Diphenhydramine"
+        },
+        {
+            "identifier": 161,
+            "name": "Diphenoxylic acid derivatives"
+        },
+        {
+            "identifier": 185,
+            "name": "Diphenylheptane opioids"
+        },
+        {
+            "identifier": 373,
+            "name": "Diphtheria"
+        },
+        {
+            "identifier": 206,
+            "name": "Diphtheria Toxin"
+        },
+        {
+            "identifier": 374,
+            "name": "Dipyridamole"
+        },
+        {
+            "identifier": 735,
+            "name": "Diroximel Fumarate"
+        },
+        {
+            "identifier": 316,
+            "name": "Disopyramide"
+        },
+        {
+            "identifier": 375,
+            "name": "Disulfiram"
+        },
+        {
+            "identifier": 828,
+            "name": "Docusate"
+        },
+        {
+            "identifier": 567,
+            "name": "Dolutegravir"
+        },
+        {
+            "identifier": 700,
+            "name": "Dopamine and Norepinephrine Reuptake Inhibitor (DNRI)"
+        },
+        {
+            "identifier": 468,
+            "name": "Echinacea"
+        },
+        {
+            "identifier": 262,
+            "name": "Echinocandins"
+        },
+        {
+            "identifier": 317,
+            "name": "Edetate disodium"
+        },
+        {
+            "identifier": 645,
+            "name": "EGFR Kinase Inhibitors"
+        },
+        {
+            "identifier": 629,
+            "name": "Egg and Egg Derivatives."
+        },
+        {
+            "identifier": 639,
+            "name": "Elagolix"
+        },
+        {
+            "identifier": 500,
+            "name": "Eleutherococcus senticosus (Siberian ginseng)"
+        },
+        {
+            "identifier": 318,
+            "name": "Encainide"
+        },
+        {
+            "identifier": 180,
+            "name": "Epipodophyllotoxins"
+        },
+        {
+            "identifier": 41,
+            "name": "Equine Derivatives (Horse)"
+        },
+        {
+            "identifier": 120,
+            "name": "Ergot alkaloids"
+        },
+        {
+            "identifier": 711,
+            "name": "Erlotinib"
+        },
+        {
+            "identifier": 176,
+            "name": "Erythropoietin and related compounds"
+        },
+        {
+            "identifier": 698,
+            "name": "Esketamine"
+        },
+        {
+            "identifier": 134,
+            "name": "Ester anesthetics"
+        },
+        {
+            "identifier": 572,
+            "name": "Estramustine"
+        },
+        {
+            "identifier": 202,
+            "name": "Estrogens"
+        },
+        {
+            "identifier": 654,
+            "name": "Eszopiclone"
+        },
+        {
+            "identifier": 530,
+            "name": "Etelcalcetide"
+        },
+        {
+            "identifier": 65,
+            "name": "Ethacrynic acid derivatives"
+        },
+        {
+            "identifier": 319,
+            "name": "Ethambutol"
+        },
+        {
+            "identifier": 845,
+            "name": "Ethanolamine Antihistamines"
+        },
+        {
+            "identifier": 376,
+            "name": "Ethchlorvynol"
+        },
+        {
+            "identifier": 377,
+            "name": "Ethionamide"
+        },
+        {
+            "identifier": 846,
+            "name": "Ethylenediamine Antihistamines"
+        },
+        {
+            "identifier": 378,
+            "name": "Ethylenediamine Derivatives"
+        },
+        {
+            "identifier": 379,
+            "name": "Etomidate"
+        },
+        {
+            "identifier": 63,
+            "name": "Eucalyptus"
+        },
+        {
+            "identifier": 481,
+            "name": "Factor Xa inhibitors"
+        },
+        {
+            "identifier": 725,
+            "name": "Fava Bean"
+        },
+        {
+            "identifier": 722,
+            "name": "Fedratinib"
+        },
+        {
+            "identifier": 724,
+            "name": "Fenugreek"
+        },
+        {
+            "identifier": 513,
+            "name": "Ferulic acid"
+        },
+        {
+            "identifier": 658,
+            "name": "Fesoterodine"
+        },
+        {
+            "identifier": 177,
+            "name": "Fibric acid derivatives"
+        },
+        {
+            "identifier": 705,
+            "name": "Fibroblast growth factor receptor (FGFR) tyrosine kinase inhi"
+        },
+        {
+            "identifier": 264,
+            "name": "Fidaxomicin"
+        },
+        {
+            "identifier": 211,
+            "name": "Filgrastim / Pegfilgrastim"
+        },
+        {
+            "identifier": 226,
+            "name": "Fish Derivatives"
+        },
+        {
+            "identifier": 320,
+            "name": "Flavoxate"
+        },
+        {
+            "identifier": 227,
+            "name": "flecainide"
+        },
+        {
+            "identifier": 380,
+            "name": "Flucytosine"
+        },
+        {
+            "identifier": 610,
+            "name": "Fluoride"
+        },
+        {
+            "identifier": 824,
+            "name": "Fluorine F-18 Radiopharmaceuticals"
+        },
+        {
+            "identifier": 771,
+            "name": "Fluoroestradiol F-18"
+        },
+        {
+            "identifier": 253,
+            "name": "Folic Acid"
+        },
+        {
+            "identifier": 808,
+            "name": "Formoterol"
+        },
+        {
+            "identifier": 244,
+            "name": "Fosamprenavir"
+        },
+        {
+            "identifier": 815,
+            "name": "Fosdenopterin"
+        },
+        {
+            "identifier": 611,
+            "name": "Fostamatinib"
+        },
+        {
+            "identifier": 773,
+            "name": "Fostemsavir"
+        },
+        {
+            "identifier": 501,
+            "name": "Frankincense"
+        },
+        {
+            "identifier": 737,
+            "name": "Fumaric acid esters"
+        },
+        {
+            "identifier": 699,
+            "name": "GABA A Receptor Positive Modulators"
+        },
+        {
+            "identifier": 537,
+            "name": "GABA analogs"
+        },
+        {
+            "identifier": 272,
+            "name": "Gadobenate dimeglumine"
+        },
+        {
+            "identifier": 90,
+            "name": "Gadolinium compounds"
+        },
+        {
+            "identifier": 827,
+            "name": "Garlic"
+        },
+        {
+            "identifier": 670,
+            "name": "Geranium"
+        },
+        {
+            "identifier": 667,
+            "name": "Gilteritinib"
+        },
+        {
+            "identifier": 474,
+            "name": "Ginger and Related Compunds"
+        },
+        {
+            "identifier": 662,
+            "name": "Glasdegib"
+        },
+        {
+            "identifier": 381,
+            "name": "Glucagon"
+        },
+        {
+            "identifier": 96,
+            "name": "Glucocorticoids"
+        },
+        {
+            "identifier": 274,
+            "name": "Glucosamine"
+        },
+        {
+            "identifier": 831,
+            "name": "Glycerol"
+        },
+        {
+            "identifier": 461,
+            "name": "Glycopeptides"
+        },
+        {
+            "identifier": 635,
+            "name": "Glycopyrronium"
+        },
+        {
+            "identifier": 217,
+            "name": "Glycylcyclines"
+        },
+        {
+            "identifier": 801,
+            "name": "GnRH receptor antagonists"
+        },
+        {
+            "identifier": 259,
+            "name": "Goat derivatives"
+        },
+        {
+            "identifier": 49,
+            "name": "Gold"
+        },
+        {
+            "identifier": 178,
+            "name": "Gonadotropin releasing factor"
+        },
+        {
+            "identifier": 203,
+            "name": "Gonadotropin-Releasing Hormone Analogs"
+        },
+        {
+            "identifier": 156,
+            "name": "Gram positive bacterial proteins"
+        },
+        {
+            "identifier": 525,
+            "name": "Grape"
+        },
+        {
+            "identifier": 552,
+            "name": "Green Dyes"
+        },
+        {
+            "identifier": 249,
+            "name": "Green Tea"
+        },
+        {
+            "identifier": 58,
+            "name": "Griseofulvin"
+        },
+        {
+            "identifier": 382,
+            "name": "Guaifenesin"
+        },
+        {
+            "identifier": 321,
+            "name": "Guanabenz"
+        },
+        {
+            "identifier": 383,
+            "name": "Guanethidine"
+        },
+        {
+            "identifier": 322,
+            "name": "Guanfacine"
+        },
+        {
+            "identifier": 323,
+            "name": "Guanidine"
+        },
+        {
+            "identifier": 20,
+            "name": "H2-blockers"
+        },
+        {
+            "identifier": 295,
+            "name": "Haemophilus B Conjugate vaccine"
+        },
+        {
+            "identifier": 232,
+            "name": "Halogenated Anesthetics"
+        },
+        {
+            "identifier": 102,
+            "name": "Hamster-based antibodies"
+        },
+        {
+            "identifier": 488,
+            "name": "HCV NS3/4A Protease Inhibitors"
+        },
+        {
+            "identifier": 480,
+            "name": "HCV NS5A inhibitors"
+        },
+        {
+            "identifier": 745,
+            "name": "Hemoglobin S polymerization inhibitor"
+        },
+        {
+            "identifier": 213,
+            "name": "Heparin"
+        },
+        {
+            "identifier": 472,
+            "name": "Hepatitis A"
+        },
+        {
+            "identifier": 384,
+            "name": "Hepatitis B"
+        },
+        {
+            "identifier": 768,
+            "name": "HER2 Tyrosine Kinase Inhibitors"
+        },
+        {
+            "identifier": 229,
+            "name": "Hetastarch"
+        },
+        {
+            "identifier": 451,
+            "name": "Hexachlorophene"
+        },
+        {
+            "identifier": 686,
+            "name": "Hexylresorcinol"
+        },
+        {
+            "identifier": 214,
+            "name": "Hirudins"
+        },
+        {
+            "identifier": 721,
+            "name": "Histamine-3 (H3) receptor antagonist/inverse agonists"
+        },
+        {
+            "identifier": 54,
+            "name": "HMG-CoA reductase inhibitors"
+        },
+        {
+            "identifier": 532,
+            "name": "House Dust Mite Allergen Extracts"
+        },
+        {
+            "identifier": 749,
+            "name": "Human Albumin Recombinant, Rice Derived"
+        },
+        {
+            "identifier": 443,
+            "name": "Human chorionic gonadotropin"
+        },
+        {
+            "identifier": 196,
+            "name": "Human Immune Globulin"
+        },
+        {
+            "identifier": 805,
+            "name": "Human milk oligosaccharides (HMOs)"
+        },
+        {
+            "identifier": 158,
+            "name": "Hyaluronan derivatives"
+        },
+        {
+            "identifier": 157,
+            "name": "Hyaluronic acid"
+        },
+        {
+            "identifier": 385,
+            "name": "Hyaluronidase"
+        },
+        {
+            "identifier": 80,
+            "name": "Hydantoins"
+        },
+        {
+            "identifier": 324,
+            "name": "Hydralazine"
+        },
+        {
+            "identifier": 573,
+            "name": "Hydrocodone"
+        },
+        {
+            "identifier": 233,
+            "name": "Hydroquinone"
+        },
+        {
+            "identifier": 235,
+            "name": "Hydroxyethyl Cellulose"
+        },
+        {
+            "identifier": 387,
+            "name": "Hydroxyurea"
+        },
+        {
+            "identifier": 150,
+            "name": "Hydroxyzine"
+        },
+        {
+            "identifier": 678,
+            "name": "Hyoscamine"
+        },
+        {
+            "identifier": 712,
+            "name": "Hypochlorite"
+        },
+        {
+            "identifier": 832,
+            "name": "Ibrexafungerp"
+        },
+        {
+            "identifier": 269,
+            "name": "Icodextrin"
+        },
+        {
+            "identifier": 476,
+            "name": "Incretin Mimetics"
+        },
+        {
+            "identifier": 169,
+            "name": "Indoles"
+        },
+        {
+            "identifier": 644,
+            "name": "Influenza A Vaccines"
+        },
+        {
+            "identifier": 286,
+            "name": "Influenza B vaccines"
+        },
+        {
+            "identifier": 197,
+            "name": "Ingredients Derived from E. coli"
+        },
+        {
+            "identifier": 198,
+            "name": "Ingredients of Avian origin"
+        },
+        {
+            "identifier": 75,
+            "name": "Insulin (all)"
+        },
+        {
+            "identifier": 571,
+            "name": "Integrase strand transfer inhibitors"
+        },
+        {
+            "identifier": 124,
+            "name": "Interferon Beta"
+        },
+        {
+            "identifier": 109,
+            "name": "Interferons (All)"
+        },
+        {
+            "identifier": 208,
+            "name": "Interleukins"
+        },
+        {
+            "identifier": 48,
+            "name": "Iodine"
+        },
+        {
+            "identifier": 236,
+            "name": "Iodoquinol"
+        },
+        {
+            "identifier": 605,
+            "name": "Ionic Contrast Media"
+        },
+        {
+            "identifier": 325,
+            "name": "Ipratropium"
+        },
+        {
+            "identifier": 47,
+            "name": "Iron"
+        },
+        {
+            "identifier": 608,
+            "name": "Iron-containing MRI contrast agents"
+        },
+        {
+            "identifier": 388,
+            "name": "Isoniazid"
+        },
+        {
+            "identifier": 326,
+            "name": "Isoxsuprine"
+        },
+        {
+            "identifier": 619,
+            "name": "Janus kinase (JAK) inhibitors"
+        },
+        {
+            "identifier": 327,
+            "name": "Ketamine"
+        },
+        {
+            "identifier": 194,
+            "name": "Ketolides"
+        },
+        {
+            "identifier": 507,
+            "name": "Kiwi"
+        },
+        {
+            "identifier": 825,
+            "name": "KRAS G12C inhibitors"
+        },
+        {
+            "identifier": 288,
+            "name": "Krill oil"
+        },
+        {
+            "identifier": 479,
+            "name": "Lactobacillus"
+        },
+        {
+            "identifier": 240,
+            "name": "Lactose"
+        },
+        {
+            "identifier": 570,
+            "name": "Lamiaceae"
+        },
+        {
+            "identifier": 664,
+            "name": "Larotrectinib"
+        },
+        {
+            "identifier": 731,
+            "name": "Lasmiditan"
+        },
+        {
+            "identifier": 68,
+            "name": "Latex"
+        },
+        {
+            "identifier": 515,
+            "name": "Lauryl Laurate"
+        },
+        {
+            "identifier": 540,
+            "name": "Lecithin derivatives"
+        },
+        {
+            "identifier": 669,
+            "name": "Lemongrass"
+        },
+        {
+            "identifier": 466,
+            "name": "Leporine Derivatives (Rabbit)"
+        },
+        {
+            "identifier": 146,
+            "name": "Leukotriene antagonists"
+        },
+        {
+            "identifier": 823,
+            "name": "Leuprolide"
+        },
+        {
+            "identifier": 509,
+            "name": "Levetiracetam analogs"
+        },
+        {
+            "identifier": 85,
+            "name": "Levodopa"
+        },
+        {
+            "identifier": 672,
+            "name": "Limonene"
+        },
+        {
+            "identifier": 23,
+            "name": "Lincosamides"
+        },
+        {
+            "identifier": 389,
+            "name": "Lindane"
+        },
+        {
+            "identifier": 179,
+            "name": "Lithium"
+        },
+        {
+            "identifier": 614,
+            "name": "Lofexidine"
+        },
+        {
+            "identifier": 122,
+            "name": "Loop diuretics"
+        },
+        {
+            "identifier": 578,
+            "name": "Loratadine"
+        },
+        {
+            "identifier": 212,
+            "name": "Low Molecular Weight Heparins"
+        },
+        {
+            "identifier": 328,
+            "name": "Loxapine"
+        },
+        {
+            "identifier": 755,
+            "name": "Lumateperone"
+        },
+        {
+            "identifier": 636,
+            "name": "Macimorelin"
+        },
+        {
+            "identifier": 52,
+            "name": "Macrolide Immunosuppressants"
+        },
+        {
+            "identifier": 24,
+            "name": "Macrolides"
+        },
+        {
+            "identifier": 329,
+            "name": "Mafenide"
+        },
+        {
+            "identifier": 465,
+            "name": "Magnesium"
+        },
+        {
+            "identifier": 738,
+            "name": "Malic acid"
+        },
+        {
+            "identifier": 270,
+            "name": "Maltose"
+        },
+        {
+            "identifier": 601,
+            "name": "Manganese"
+        },
+        {
+            "identifier": 390,
+            "name": "Mannitol"
+        },
+        {
+            "identifier": 627,
+            "name": "Marijuana"
+        },
+        {
+            "identifier": 330,
+            "name": "Mecamylamine"
+        },
+        {
+            "identifier": 331,
+            "name": "Mechlorethamine"
+        },
+        {
+            "identifier": 638,
+            "name": "Mefloquine"
+        },
+        {
+            "identifier": 684,
+            "name": "Megestrol"
+        },
+        {
+            "identifier": 131,
+            "name": "Meglitinides"
+        },
+        {
+            "identifier": 631,
+            "name": "MEK inhibitors"
+        },
+        {
+            "identifier": 729,
+            "name": "Melanocortin-1 receptor (MC1-R) agonists"
+        },
+        {
+            "identifier": 795,
+            "name": "Melon"
+        },
+        {
+            "identifier": 810,
+            "name": "Melphalan"
+        },
+        {
+            "identifier": 779,
+            "name": "Memantine"
+        },
+        {
+            "identifier": 285,
+            "name": "Meningococcal Vaccines"
+        },
+        {
+            "identifier": 222,
+            "name": "Meningocococcal Polysaccharide Diptheria Toxoid Conjugate Va"
+        },
+        {
+            "identifier": 392,
+            "name": "Mepenzolate"
+        },
+        {
+            "identifier": 234,
+            "name": "Mequinol"
+        },
+        {
+            "identifier": 186,
+            "name": "Mercurial compounds"
+        },
+        {
+            "identifier": 803,
+            "name": "Mesenchymal-Epithelial Transition (MET) Inhibitors"
+        },
+        {
+            "identifier": 393,
+            "name": "Mesna"
+        },
+        {
+            "identifier": 799,
+            "name": "Messenger RNA of SARS-CoV-2 (COVID-19)"
+        },
+        {
+            "identifier": 394,
+            "name": "Mestranol"
+        },
+        {
+            "identifier": 231,
+            "name": "Metacresol"
+        },
+        {
+            "identifier": 782,
+            "name": "Metaxalone"
+        },
+        {
+            "identifier": 396,
+            "name": "Methenamine"
+        },
+        {
+            "identifier": 397,
+            "name": "Methimazole"
+        },
+        {
+            "identifier": 167,
+            "name": "Methotrexate compounds"
+        },
+        {
+            "identifier": 332,
+            "name": "Methyldopa"
+        },
+        {
+            "identifier": 398,
+            "name": "Methylene blue"
+        },
+        {
+            "identifier": 817,
+            "name": "Methylphenidate Derivatives"
+        },
+        {
+            "identifier": 333,
+            "name": "Metoclopramide"
+        },
+        {
+            "identifier": 783,
+            "name": "Metronidazole"
+        },
+        {
+            "identifier": 399,
+            "name": "Metyrapone"
+        },
+        {
+            "identifier": 400,
+            "name": "Metyrosine"
+        },
+        {
+            "identifier": 256,
+            "name": "Mifepristone"
+        },
+        {
+            "identifier": 642,
+            "name": "Migalastat"
+        },
+        {
+            "identifier": 622,
+            "name": "Milbemycins"
+        },
+        {
+            "identifier": 292,
+            "name": "Milnacipran"
+        },
+        {
+            "identifier": 733,
+            "name": "Minocycline"
+        },
+        {
+            "identifier": 401,
+            "name": "Minoxidil"
+        },
+        {
+            "identifier": 569,
+            "name": "Mint"
+        },
+        {
+            "identifier": 402,
+            "name": "Mitomycin"
+        },
+        {
+            "identifier": 403,
+            "name": "Mitotane"
+        },
+        {
+            "identifier": 334,
+            "name": "Mitoxantrone"
+        },
+        {
+            "identifier": 602,
+            "name": "Modafinil"
+        },
+        {
+            "identifier": 335,
+            "name": "Molindone"
+        },
+        {
+            "identifier": 498,
+            "name": "Mollusc Derivatives"
+        },
+        {
+            "identifier": 789,
+            "name": "Molybdenum"
+        },
+        {
+            "identifier": 25,
+            "name": "Monoamine oxidase inhibitors"
+        },
+        {
+            "identifier": 26,
+            "name": "Monobactams"
+        },
+        {
+            "identifier": 604,
+            "name": "Monoclonal antibodies"
+        },
+        {
+            "identifier": 607,
+            "name": "MRI contrast agents"
+        },
+        {
+            "identifier": 336,
+            "name": "Mupirocin"
+        },
+        {
+            "identifier": 101,
+            "name": "Murine-based antibodies"
+        },
+        {
+            "identifier": 521,
+            "name": "Mushrooms"
+        },
+        {
+            "identifier": 494,
+            "name": "Musk Deer Derivatives"
+        },
+        {
+            "identifier": 404,
+            "name": "Naftifine"
+        },
+        {
+            "identifier": 535,
+            "name": "Naldemedine"
+        },
+        {
+            "identifier": 473,
+            "name": "Naloxone Derivatives"
+        },
+        {
+            "identifier": 405,
+            "name": "Natamycin"
+        },
+        {
+            "identifier": 242,
+            "name": "Neomycin"
+        },
+        {
+            "identifier": 706,
+            "name": "Neratinib"
+        },
+        {
+            "identifier": 568,
+            "name": "Netarsudil"
+        },
+        {
+            "identifier": 613,
+            "name": "Netupitant"
+        },
+        {
+            "identifier": 106,
+            "name": "Neuraminidase inhibitors"
+        },
+        {
+            "identifier": 155,
+            "name": "Neuromuscular blockers"
+        },
+        {
+            "identifier": 580,
+            "name": "Niacinamide"
+        },
+        {
+            "identifier": 487,
+            "name": "Nickel"
+        },
+        {
+            "identifier": 676,
+            "name": "Nicotine"
+        },
+        {
+            "identifier": 675,
+            "name": "Nightshade (Solanacae)"
+        },
+        {
+            "identifier": 536,
+            "name": "Niraparib"
+        },
+        {
+            "identifier": 139,
+            "name": "Nitrates"
+        },
+        {
+            "identifier": 164,
+            "name": "Nitrofuran derivatives"
+        },
+        {
+            "identifier": 104,
+            "name": "Nitrogen mustards"
+        },
+        {
+            "identifier": 784,
+            "name": "Nitroimidazoles"
+        },
+        {
+            "identifier": 719,
+            "name": "Nitroimidazooxazines"
+        },
+        {
+            "identifier": 105,
+            "name": "Nitrosoureas"
+        },
+        {
+            "identifier": 778,
+            "name": "NMDA antagonists"
+        },
+        {
+            "identifier": 606,
+            "name": "Non-Ionic Contrast Media"
+        },
+        {
+            "identifier": 130,
+            "name": "Non-nucleoside reverse transcriptase inhibitors"
+        },
+        {
+            "identifier": 95,
+            "name": "Nonsteroidal antiandrogens"
+        },
+        {
+            "identifier": 27,
+            "name": "Nonsteroidal antiinflammatory drugs"
+        },
+        {
+            "identifier": 714,
+            "name": "Nuclear Export Inhibitor"
+        },
+        {
+            "identifier": 129,
+            "name": "Nucleoside reverse transcriptase inhibitors"
+        },
+        {
+            "identifier": 734,
+            "name": "Oat"
+        },
+        {
+            "identifier": 775,
+            "name": "Octreotide"
+        },
+        {
+            "identifier": 144,
+            "name": "Oleic acid derivatives"
+        },
+        {
+            "identifier": 829,
+            "name": "Onion"
+        },
+        {
+            "identifier": 558,
+            "name": "Opiate Agonists-Antagonists"
+        },
+        {
+            "identifier": 559,
+            "name": "Opiate Antagonists"
+        },
+        {
+            "identifier": 557,
+            "name": "Opioids"
+        },
+        {
+            "identifier": 763,
+            "name": "Oral CGRP Receptor Antagonists (GEPANTs)"
+        },
+        {
+            "identifier": 806,
+            "name": "Oral pyrimidine synthesis inhibitors"
+        },
+        {
+            "identifier": 751,
+            "name": "Orexin Receptor Antagonists"
+        },
+        {
+            "identifier": 338,
+            "name": "Orphenadrine"
+        },
+        {
+            "identifier": 764,
+            "name": "Osilodrostat"
+        },
+        {
+            "identifier": 40,
+            "name": "Ovine Derivatives (Sheep)"
+        },
+        {
+            "identifier": 170,
+            "name": "Oxazolidinediones"
+        },
+        {
+            "identifier": 780,
+            "name": "Oxybates"
+        },
+        {
+            "identifier": 339,
+            "name": "Oxybutynin"
+        },
+        {
+            "identifier": 386,
+            "name": "Oxyquinoline"
+        },
+        {
+            "identifier": 406,
+            "name": "Oxytocin"
+        },
+        {
+            "identifier": 766,
+            "name": "Ozanimod"
+        },
+        {
+            "identifier": 195,
+            "name": "PABA derivatives"
+        },
+        {
+            "identifier": 820,
+            "name": "Palm Kernel Acids"
+        },
+        {
+            "identifier": 514,
+            "name": "Palm Oil"
+        },
+        {
+            "identifier": 819,
+            "name": "Palm oil derivatives"
+        },
+        {
+            "identifier": 674,
+            "name": "Palmarosa Oil"
+        },
+        {
+            "identifier": 612,
+            "name": "Panax ginseng"
+        },
+        {
+            "identifier": 836,
+            "name": "Pancrelipase"
+        },
+        {
+            "identifier": 241,
+            "name": "Papain"
+        },
+        {
+            "identifier": 489,
+            "name": "Papaya"
+        },
+        {
+            "identifier": 463,
+            "name": "Papillomavirus Protein antigens (Human)"
+        },
+        {
+            "identifier": 582,
+            "name": "Parabens"
+        },
+        {
+            "identifier": 502,
+            "name": "Paritaprevir"
+        },
+        {
+            "identifier": 340,
+            "name": "Paroxetine"
+        },
+        {
+            "identifier": 527,
+            "name": "PARP Inhibitors"
+        },
+        {
+            "identifier": 641,
+            "name": "Patisiran"
+        },
+        {
+            "identifier": 646,
+            "name": "PD-1 inhibitor"
+        },
+        {
+            "identifier": 647,
+            "name": "PD-L1 inhibitor"
+        },
+        {
+            "identifier": 626,
+            "name": "Peach"
+        },
+        {
+            "identifier": 38,
+            "name": "Peanut Family"
+        },
+        {
+            "identifier": 486,
+            "name": "Peas"
+        },
+        {
+            "identifier": 821,
+            "name": "Pegcetacoplan"
+        },
+        {
+            "identifier": 407,
+            "name": "Pemoline"
+        },
+        {
+            "identifier": 81,
+            "name": "Penicillamine"
+        },
+        {
+            "identifier": 341,
+            "name": "Penicillin G"
+        },
+        {
+            "identifier": 135,
+            "name": "Penicillin G procaine"
+        },
+        {
+            "identifier": 730,
+            "name": "Penicillin V"
+        },
+        {
+            "identifier": 1,
+            "name": "Penicillins"
+        },
+        {
+            "identifier": 342,
+            "name": "Pentamidine"
+        },
+        {
+            "identifier": 343,
+            "name": "Pergolide"
+        },
+        {
+            "identifier": 475,
+            "name": "Pertussis"
+        },
+        {
+            "identifier": 718,
+            "name": "Pexidartinib"
+        },
+        {
+            "identifier": 184,
+            "name": "Phenanthrene opioids"
+        },
+        {
+            "identifier": 344,
+            "name": "Phenazopyridine"
+        },
+        {
+            "identifier": 688,
+            "name": "Phenol"
+        },
+        {
+            "identifier": 44,
+            "name": "Phenothiazines"
+        },
+        {
+            "identifier": 346,
+            "name": "Phenoxybenzamine"
+        },
+        {
+            "identifier": 347,
+            "name": "Phentolamine"
+        },
+        {
+            "identifier": 408,
+            "name": "Phenylalanine"
+        },
+        {
+            "identifier": 409,
+            "name": "Phenylbutazone"
+        },
+        {
+            "identifier": 837,
+            "name": "Phenylpiperazine Antidepressants"
+        },
+        {
+            "identifier": 183,
+            "name": "Phenylpiperidine opioids"
+        },
+        {
+            "identifier": 562,
+            "name": "Phenylpropylamines"
+        },
+        {
+            "identifier": 561,
+            "name": "Phosphatidylinositol-3-kinase (PI3K) Inhibitors"
+        },
+        {
+            "identifier": 717,
+            "name": "Phosphocholine"
+        },
+        {
+            "identifier": 127,
+            "name": "Phosphodiesterase inhibitors"
+        },
+        {
+            "identifier": 651,
+            "name": "Phosphonates"
+        },
+        {
+            "identifier": 348,
+            "name": "Pilocarpine"
+        },
+        {
+            "identifier": 512,
+            "name": "Pimavanserin"
+        },
+        {
+            "identifier": 410,
+            "name": "Pimozide"
+        },
+        {
+            "identifier": 834,
+            "name": "Piperazine Antihistamines"
+        },
+        {
+            "identifier": 618,
+            "name": "Pitavastatin"
+        },
+        {
+            "identifier": 720,
+            "name": "Pitolisant"
+        },
+        {
+            "identifier": 520,
+            "name": "Plant-based Enzymes"
+        },
+        {
+            "identifier": 53,
+            "name": "Platinum compounds"
+        },
+        {
+            "identifier": 723,
+            "name": "Pleuromutilin Derivatives"
+        },
+        {
+            "identifier": 482,
+            "name": "Pneumococcal Vaccine"
+        },
+        {
+            "identifier": 411,
+            "name": "Poliovirus vaccine"
+        },
+        {
+            "identifier": 299,
+            "name": "Pollen Extracts"
+        },
+        {
+            "identifier": 798,
+            "name": "Polyethylene Glycol"
+        },
+        {
+            "identifier": 60,
+            "name": "Polymyxins"
+        },
+        {
+            "identifier": 584,
+            "name": "Polysorbates"
+        },
+        {
+            "identifier": 42,
+            "name": "Porcine Derivatives (Pig)"
+        },
+        {
+            "identifier": 187,
+            "name": "Porphyrins"
+        },
+        {
+            "identifier": 585,
+            "name": "Potassium"
+        },
+        {
+            "identifier": 74,
+            "name": "Potassium-sparing diuretics"
+        },
+        {
+            "identifier": 661,
+            "name": "Potato"
+        },
+        {
+            "identifier": 349,
+            "name": "Pralidoxime"
+        },
+        {
+            "identifier": 350,
+            "name": "Pramoxine"
+        },
+        {
+            "identifier": 412,
+            "name": "Praziquantel"
+        },
+        {
+            "identifier": 237,
+            "name": "Primaquine"
+        },
+        {
+            "identifier": 280,
+            "name": "Probenecid"
+        },
+        {
+            "identifier": 136,
+            "name": "Procainamide"
+        },
+        {
+            "identifier": 788,
+            "name": "Procaine"
+        },
+        {
+            "identifier": 351,
+            "name": "Procarbazine"
+        },
+        {
+            "identifier": 215,
+            "name": "Progestins"
+        },
+        {
+            "identifier": 268,
+            "name": "Propantheline"
+        },
+        {
+            "identifier": 848,
+            "name": "Propofol Derivatives"
+        },
+        {
+            "identifier": 413,
+            "name": "Propylthiouracil"
+        },
+        {
+            "identifier": 147,
+            "name": "Prostaglandins"
+        },
+        {
+            "identifier": 166,
+            "name": "Protamine compounds"
+        },
+        {
+            "identifier": 55,
+            "name": "Protease inhibitors"
+        },
+        {
+            "identifier": 284,
+            "name": "Protein C Concentrate (Human)"
+        },
+        {
+            "identifier": 33,
+            "name": "Proton pump inhibitors"
+        },
+        {
+            "identifier": 682,
+            "name": "Prucalopride"
+        },
+        {
+            "identifier": 414,
+            "name": "Psyllium"
+        },
+        {
+            "identifier": 656,
+            "name": "Pumpkin"
+        },
+        {
+            "identifier": 181,
+            "name": "Purine analogs"
+        },
+        {
+            "identifier": 528,
+            "name": "Pyrantel"
+        },
+        {
+            "identifier": 415,
+            "name": "Pyrazinamide"
+        },
+        {
+            "identifier": 838,
+            "name": "Pyrazoles"
+        },
+        {
+            "identifier": 199,
+            "name": "Pyrethrin Derivatives"
+        },
+        {
+            "identifier": 416,
+            "name": "Pyrimethamine"
+        },
+        {
+            "identifier": 182,
+            "name": "Pyrimidine analogs"
+        },
+        {
+            "identifier": 687,
+            "name": "Pyrogallol"
+        },
+        {
+            "identifier": 165,
+            "name": "Quatenary ammonium compounds"
+        },
+        {
+            "identifier": 300,
+            "name": "Quetiapine"
+        },
+        {
+            "identifier": 141,
+            "name": "Quinazoline Compounds"
+        },
+        {
+            "identifier": 97,
+            "name": "Quinolones"
+        },
+        {
+            "identifier": 239,
+            "name": "Rabbit Based Antibodies"
+        },
+        {
+            "identifier": 655,
+            "name": "Rabies"
+        },
+        {
+            "identifier": 200,
+            "name": "Ragweed Sensitivity"
+        },
+        {
+            "identifier": 255,
+            "name": "Rapamycin Derivatives"
+        },
+        {
+            "identifier": 46,
+            "name": "Rauwolfia Alkaloids"
+        },
+        {
+            "identifier": 648,
+            "name": "Recombinant Adenosine Deaminase"
+        },
+        {
+            "identifier": 551,
+            "name": "Red Dyes"
+        },
+        {
+            "identifier": 620,
+            "name": "Red Meat"
+        },
+        {
+            "identifier": 777,
+            "name": "Remimazolam"
+        },
+        {
+            "identifier": 685,
+            "name": "Resorcinol"
+        },
+        {
+            "identifier": 586,
+            "name": "Retinoids"
+        },
+        {
+            "identifier": 728,
+            "name": "Retinoids (topical)"
+        },
+        {
+            "identifier": 533,
+            "name": "Ribociclib"
+        },
+        {
+            "identifier": 750,
+            "name": "Rice Derivatives"
+        },
+        {
+            "identifier": 660,
+            "name": "Rifamycin"
+        },
+        {
+            "identifier": 35,
+            "name": "Rifamycins"
+        },
+        {
+            "identifier": 770,
+            "name": "Ripretinib"
+        },
+        {
+            "identifier": 707,
+            "name": "Risankizumab"
+        },
+        {
+            "identifier": 154,
+            "name": "Rivastigmine"
+        },
+        {
+            "identifier": 462,
+            "name": "Rotavirus A type Live Antigens (Human)"
+        },
+        {
+            "identifier": 470,
+            "name": "Rubellla"
+        },
+        {
+            "identifier": 534,
+            "name": "Safinamide"
+        },
+        {
+            "identifier": 87,
+            "name": "salicylates"
+        },
+        {
+            "identifier": 456,
+            "name": "Salicylates (non-aspirin)"
+        },
+        {
+            "identifier": 160,
+            "name": "Scopolamine"
+        },
+        {
+            "identifier": 454,
+            "name": "Secretin"
+        },
+        {
+            "identifier": 813,
+            "name": "Selective norepinephrine reuptake inhibitors"
+        },
+        {
+            "identifier": 732,
+            "name": "Selective Serotonin 1F Receptor Agonists"
+        },
+        {
+            "identifier": 153,
+            "name": "Selective serotonin reuptake inhibitors"
+        },
+        {
+            "identifier": 352,
+            "name": "Selenium"
+        },
+        {
+            "identifier": 769,
+            "name": "Selpercatinib"
+        },
+        {
+            "identifier": 822,
+            "name": "Semisynthetic Ergot Derivatives"
+        },
+        {
+            "identifier": 111,
+            "name": "Serotonin receptor agonists"
+        },
+        {
+            "identifier": 148,
+            "name": "Serotonin-Receptor Antagonists"
+        },
+        {
+            "identifier": 793,
+            "name": "Sesame"
+        },
+        {
+            "identifier": 467,
+            "name": "SGLT2 inhibitors"
+        },
+        {
+            "identifier": 496,
+            "name": "Shark Cartilage"
+        },
+        {
+            "identifier": 791,
+            "name": "Shellfish"
+        },
+        {
+            "identifier": 565,
+            "name": "Silicon"
+        },
+        {
+            "identifier": 681,
+            "name": "Silicone"
+        },
+        {
+            "identifier": 839,
+            "name": "Silk"
+        },
+        {
+            "identifier": 266,
+            "name": "Silver"
+        },
+        {
+            "identifier": 744,
+            "name": "Silver and Silver Derivatives"
+        },
+        {
+            "identifier": 296,
+            "name": "Simeprevir"
+        },
+        {
+            "identifier": 417,
+            "name": "Sincalide"
+        },
+        {
+            "identifier": 702,
+            "name": "Siponimod"
+        },
+        {
+            "identifier": 250,
+            "name": "Snake Derivatives"
+        },
+        {
+            "identifier": 616,
+            "name": "Sodium Zirconium"
+        },
+        {
+            "identifier": 704,
+            "name": "Solriamfetol"
+        },
+        {
+            "identifier": 802,
+            "name": "Soluble guanylate cyclase stimulators"
+        },
+        {
+            "identifier": 418,
+            "name": "Somatropin"
+        },
+        {
+            "identifier": 43,
+            "name": "Soy"
+        },
+        {
+            "identifier": 353,
+            "name": "Spectinomycin"
+        },
+        {
+            "identifier": 701,
+            "name": "Sphingosine 1-phosphate receptor modulators"
+        },
+        {
+            "identifier": 564,
+            "name": "St. John's Wort"
+        },
+        {
+            "identifier": 469,
+            "name": "Streptococcus Pneumoniae  Antigens"
+        },
+        {
+            "identifier": 34,
+            "name": "Streptogramins"
+        },
+        {
+            "identifier": 588,
+            "name": "Strontium"
+        },
+        {
+            "identifier": 115,
+            "name": "Succinimides"
+        },
+        {
+            "identifier": 37,
+            "name": "Sulfa/Sulfonamides"
+        },
+        {
+            "identifier": 88,
+            "name": "Sulfites"
+        },
+        {
+            "identifier": 696,
+            "name": "Sulfonamides (topical)"
+        },
+        {
+            "identifier": 840,
+            "name": "Sulfone"
+        },
+        {
+            "identifier": 69,
+            "name": "Sulfonylureas"
+        },
+        {
+            "identifier": 589,
+            "name": "Sulfur"
+        },
+        {
+            "identifier": 830,
+            "name": "Sunscreens"
+        },
+        {
+            "identifier": 143,
+            "name": "Sympathomimetics"
+        },
+        {
+            "identifier": 781,
+            "name": "Tafasitamab"
+        },
+        {
+            "identifier": 637,
+            "name": "Tafenoquine"
+        },
+        {
+            "identifier": 649,
+            "name": "Talazoparib"
+        },
+        {
+            "identifier": 354,
+            "name": "Tamoxifen"
+        },
+        {
+            "identifier": 245,
+            "name": "Tamsulosin"
+        },
+        {
+            "identifier": 86,
+            "name": "Tartrazine dye"
+        },
+        {
+            "identifier": 50,
+            "name": "Taxanes"
+        },
+        {
+            "identifier": 756,
+            "name": "Tazemetostat"
+        },
+        {
+            "identifier": 283,
+            "name": "Tbo-Filgrastim"
+        },
+        {
+            "identifier": 531,
+            "name": "Telotristat"
+        },
+        {
+            "identifier": 727,
+            "name": "Tenapor"
+        },
+        {
+            "identifier": 490,
+            "name": "Tenofovir"
+        },
+        {
+            "identifier": 591,
+            "name": "Terbinafine"
+        },
+        {
+            "identifier": 287,
+            "name": "Tetanus"
+        },
+        {
+            "identifier": 790,
+            "name": "Tetanus Toxoid Conjugate"
+        },
+        {
+            "identifier": 538,
+            "name": "Tetrabenazine Analogs"
+        },
+        {
+            "identifier": 152,
+            "name": "Tetracyclic compounds"
+        },
+        {
+            "identifier": 76,
+            "name": "Tetracyclines"
+        },
+        {
+            "identifier": 219,
+            "name": "Thalidomide Analogues"
+        },
+        {
+            "identifier": 30,
+            "name": "Thiazide diuretics"
+        },
+        {
+            "identifier": 216,
+            "name": "Thiazolidinediones"
+        },
+        {
+            "identifier": 293,
+            "name": "Thienopyridines"
+        },
+        {
+            "identifier": 592,
+            "name": "Thioamides"
+        },
+        {
+            "identifier": 205,
+            "name": "Thiol Derivatives"
+        },
+        {
+            "identifier": 457,
+            "name": "Thiosulfates"
+        },
+        {
+            "identifier": 419,
+            "name": "Thiotepa"
+        },
+        {
+            "identifier": 261,
+            "name": "Thiothixene"
+        },
+        {
+            "identifier": 842,
+            "name": "Thiuram Derivatives"
+        },
+        {
+            "identifier": 251,
+            "name": "Thrombin (Recombinant)"
+        },
+        {
+            "identifier": 609,
+            "name": "Thrombolytic Agents"
+        },
+        {
+            "identifier": 615,
+            "name": "Thrombopoetin receptor agonists"
+        },
+        {
+            "identifier": 447,
+            "name": "Thyroid Hormones"
+        },
+        {
+            "identifier": 458,
+            "name": "Thyrotropin"
+        },
+        {
+            "identifier": 290,
+            "name": "Tiotropium"
+        },
+        {
+            "identifier": 246,
+            "name": "Tipranavir"
+        },
+        {
+            "identifier": 566,
+            "name": "Titanium"
+        },
+        {
+            "identifier": 677,
+            "name": "Tobacco"
+        },
+        {
+            "identifier": 137,
+            "name": "Tocainide"
+        },
+        {
+            "identifier": 356,
+            "name": "Tolazoline"
+        },
+        {
+            "identifier": 420,
+            "name": "Tolnaftate"
+        },
+        {
+            "identifier": 657,
+            "name": "Tolterodine"
+        },
+        {
+            "identifier": 625,
+            "name": "Tomato"
+        },
+        {
+            "identifier": 460,
+            "name": "Tomatoes"
+        },
+        {
+            "identifier": 787,
+            "name": "Topical Androgen Receptor Inhibitors"
+        },
+        {
+            "identifier": 772,
+            "name": "Trabectedin analogues"
+        },
+        {
+            "identifier": 72,
+            "name": "Tramadol"
+        },
+        {
+            "identifier": 748,
+            "name": "Trastuzumab"
+        },
+        {
+            "identifier": 421,
+            "name": "Trazodone"
+        },
+        {
+            "identifier": 294,
+            "name": "Tree Nuts"
+        },
+        {
+            "identifier": 422,
+            "name": "Triacetin"
+        },
+        {
+            "identifier": 151,
+            "name": "Tricyclic Compounds"
+        },
+        {
+            "identifier": 357,
+            "name": "Trientine"
+        },
+        {
+            "identifier": 423,
+            "name": "Triethanolamine"
+        },
+        {
+            "identifier": 62,
+            "name": "Triethanolamine derivatives"
+        },
+        {
+            "identifier": 424,
+            "name": "Trifluridine"
+        },
+        {
+            "identifier": 358,
+            "name": "Trimethobenzamide"
+        },
+        {
+            "identifier": 359,
+            "name": "Trimethoprim"
+        },
+        {
+            "identifier": 843,
+            "name": "Triple Dye"
+        },
+        {
+            "identifier": 826,
+            "name": "Triterpenoid antifungals"
+        },
+        {
+            "identifier": 663,
+            "name": "Tropomyosin Receptor Kinase (TRK) inhibitors"
+        },
+        {
+            "identifier": 786,
+            "name": "Tryptophan"
+        },
+        {
+            "identifier": 455,
+            "name": "Tuberculin"
+        },
+        {
+            "identifier": 524,
+            "name": "Tumeric and other Curcuma species"
+        },
+        {
+            "identifier": 593,
+            "name": "Tumor Necrosis Factor Modifiers"
+        },
+        {
+            "identifier": 598,
+            "name": "Typhoid Vaccine, Live Ty21a"
+        },
+        {
+            "identifier": 666,
+            "name": "Tyrosine kinase 3 (FLT3) inhibitors"
+        },
+        {
+            "identifier": 811,
+            "name": "Umbralisib"
+        },
+        {
+            "identifier": 710,
+            "name": "Umeclidinium"
+        },
+        {
+            "identifier": 485,
+            "name": "Undaria Pinnatifida"
+        },
+        {
+            "identifier": 425,
+            "name": "Undecylenates"
+        },
+        {
+            "identifier": 464,
+            "name": "Urea"
+        },
+        {
+            "identifier": 426,
+            "name": "Urokinase"
+        },
+        {
+            "identifier": 448,
+            "name": "Valproic Acid"
+        },
+        {
+            "identifier": 449,
+            "name": "Vancomycin"
+        },
+        {
+            "identifier": 544,
+            "name": "Venlafaxine"
+        },
+        {
+            "identifier": 427,
+            "name": "Vidarabine"
+        },
+        {
+            "identifier": 814,
+            "name": "Viloxazine"
+        },
+        {
+            "identifier": 29,
+            "name": "Vinca alkaloids"
+        },
+        {
+            "identifier": 125,
+            "name": "Vitamin A and derivatives"
+        },
+        {
+            "identifier": 603,
+            "name": "Vitamin B"
+        },
+        {
+            "identifier": 355,
+            "name": "Vitamin B1"
+        },
+        {
+            "identifier": 446,
+            "name": "Vitamin B6"
+        },
+        {
+            "identifier": 126,
+            "name": "Vitamin D and derivatives"
+        },
+        {
+            "identifier": 841,
+            "name": "Vitamin E"
+        },
+        {
+            "identifier": 391,
+            "name": "Vitamin K"
+        },
+        {
+            "identifier": 493,
+            "name": "Vitis Vinifera"
+        },
+        {
+            "identifier": 291,
+            "name": "Walnut"
+        },
+        {
+            "identifier": 581,
+            "name": "Water soluble vitamins"
+        },
+        {
+            "identifier": 289,
+            "name": "Wheat"
+        },
+        {
+            "identifier": 844,
+            "name": "Wool alcohols"
+        },
+        {
+            "identifier": 45,
+            "name": "Xanthine Derivatives"
+        },
+        {
+            "identifier": 210,
+            "name": "Yeast Products"
+        },
+        {
+            "identifier": 758,
+            "name": "Yeast-derived"
+        },
+        {
+            "identifier": 553,
+            "name": "Yellow Dyes"
+        },
+        {
+            "identifier": 51,
+            "name": "Yohimbine"
+        },
+        {
+            "identifier": 652,
+            "name": "Zaleplon"
+        },
+        {
+            "identifier": 511,
+            "name": "Zinc"
+        },
+        {
+            "identifier": 653,
+            "name": "Zolpidem"
+        },
+        {
+            "identifier": 281,
+            "name": "Zonisamide"
+        },
+        {
+            "identifier": 276,
+            "name": "Zoster Vaccine Live (Bovine)"
+        }
+    ]
+}
