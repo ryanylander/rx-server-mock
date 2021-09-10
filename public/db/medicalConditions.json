@@ -1,0 +1,57 @@
+{
+    "medicalConditions": [    
+        {
+            "gsTermID": [ 1 ],
+            "gsTermName": [ "absence seizures" ],
+            "icd9": [
+            {
+                "identifier": 345.00,
+                "description": "Generalized nonconvulsive epilepsy, without mention of intractable epilepsy [345.00]"
+            }
+            ],
+            "icd10": [
+            {
+                "identifier": "G40.A09",
+                "description": "Absence epileptic syndrome, not intractable, without status epilepticus"
+            }
+            ],
+            "snomedct": [
+            { "identifier": 23374007, "description": "Atypical absence seizure" },
+            {
+                "identifier": 246546001,
+                "description": "Absence seizure with impairment of consciousness only"
+            },
+            {
+                "identifier": 246548000,
+                "description": "Absence seizure with mild clonic components"
+            },
+            {
+                "identifier": 246549008,
+                "description": "Absence seizure with atonic components"
+            },
+            {
+                "identifier": 246550008,
+                "description": "Absence seizure with tonic components"
+            },
+            {
+                "identifier": 246551007,
+                "description": "Absence seizure with automatisms"
+            },
+            {
+                "identifier": 246552000,
+                "description": "Absence seizure with autonomic components"
+            },
+            {
+                "identifier": 68091000119102,
+                "description": "Intractable absence seizures"
+            },
+            { "identifier": 79631006, "description": "Absence seizure" }
+            ],
+            "synonyms": [
+            { "type": "Consumer", "name": "absence seizures" },
+            { "type": "Consumer", "name": "petit mal seizures" },
+            { "type": "Professional", "name": "petit mal seizures" }
+            ]
+        }
+    ]
+}
