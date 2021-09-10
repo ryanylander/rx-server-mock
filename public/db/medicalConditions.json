@@ -1,8 +1,8 @@
 {
     "medicalConditions": [    
         {
-            "gsTermID": [ 1 ],
-            "gsTermName": [ "absence seizures" ],
+            "gsTermID": 1,
+            "gsTermName": "absence seizures",
             "icd9": [
             {
                 "identifier": 345.00,
