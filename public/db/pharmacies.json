@@ -2,7 +2,7 @@
   "pharmacies": [
     {
       "id": "ba5629ef-0dfb-40b9-aa09-664a8e2cdfb5",
-      "npi": "10000000",
+      "npi": "1962488387",
       "pharmacyServiceType": 8,
       "stateLicenseNumber": "1000002",
       "email": "noreply@medly.com",
@@ -117,7 +117,7 @@
     },
     {
       "id": "8c81a69d-57f7-4fdf-8684-03ec049348e4",
-      "npi": "1417058439",
+      "npi": "1962488387",
       "pharmacyServiceType": 9,
       "stateLicenseNumber": "1000001",
       "email": "noreply@medly.com",
